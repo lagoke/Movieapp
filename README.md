@@ -22,6 +22,8 @@ The sole purpose of writing this Web app is to demonstrate the knowledge of Web 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
+[Github Url] (https://github.com/lagoke/Movieapp.git)
+
 # Web Pages
 
 1. base.html (it is like a master page which is referenced by all the pages. It contains the header, footer with the signup, login, logout, news urls)
